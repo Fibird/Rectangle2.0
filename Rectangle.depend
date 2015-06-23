@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1435039776 source:f:\codeblocks\rectangle\main.cpp
+	<iostream>
+	"rectangle.h"
+	"Graph2D.h"
+
+1435039539 f:\codeblocks\rectangle\rectangle.h
+	<iostream>
+	"point.h"
+
+1435039752 f:\codeblocks\rectangle\point.h
+	<iostream>
+
+1435039540 source:f:\codeblocks\rectangle\point.cpp
+	<iostream>
+	<cmath>
+	"point.h"
+
+1435039540 source:f:\codeblocks\rectangle\rectangle.cpp
+	<iostream>
+	<cmath>
+	"rectangle.h"
+	"point.h"
+	"Graph2D.h"
+
