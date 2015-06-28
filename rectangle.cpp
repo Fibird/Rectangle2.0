@@ -1,7 +1,6 @@
 #include <iostream>
 #include <cmath>
 #include "rectangle.h"
-#include "point.h"
 #include "Graph2D.h"
 
 using namespace std;

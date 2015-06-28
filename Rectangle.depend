@@ -23,3 +23,20 @@
 	"point.h"
 	"Graph2D.h"
 
+1435039776 source:f:\codeblocks\rectangle2.0\main.cpp
+	<iostream>
+	"rectangle.h"
+	"Graph2D.h"
+
+1435039539 f:\codeblocks\rectangle2.0\rectangle.h
+	<iostream>
+	"point.h"
+
+1435039752 f:\codeblocks\rectangle2.0\point.h
+	<iostream>
+
+1435039540 source:f:\codeblocks\rectangle2.0\point.cpp
+	<iostream>
+	<cmath>
+	"point.h"
+
