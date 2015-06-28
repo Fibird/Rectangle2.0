@@ -46,4 +46,5 @@ int main()
     initGraph(display, keyboard);
 
     return 0;
+    delete r1;
 }
